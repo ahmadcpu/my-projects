@@ -1,0 +1,30 @@
+{
+    "twitter":{
+        "twitter_username": "1",
+        "twitter_password": "2"
+    },
+
+    "linkedin":{
+        "linkedin_email": "3",
+        "linkedin_password": "4"
+    },
+
+    "pinterest":{
+        "pinterest_email": "5",
+        "pinterest_password": "6"
+    },
+    
+    "balatarin":{
+        "balatarin_username": "7",
+        "balatarin_password": "8"
+    },
+
+
+    "info":{
+        "page": 1,
+        "start": 2,
+        "finish": 4,
+
+        "category": "mobile"
+    }
+}
